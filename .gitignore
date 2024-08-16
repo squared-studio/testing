@@ -9,6 +9,7 @@ __no_upload__
 *.vcd
 *.vvp
 *.wdb
+*
 top.cache
 top.hw
 top.ip_user_files
